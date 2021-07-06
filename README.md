@@ -1,4 +1,4 @@
-<h1 align="center">안녕하세요. 훌륭한 개발자가 되고 싶은 홍정민 입니다~</h1>
+<h1 align="center">Redbin</h1>
 <h3 align="center">여러 기술들에 관심이 많습니다.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hongjeongmin&label=Profile%20views&color=0e75b6&style=flat" alt="hongjeongmin" /> </p>
