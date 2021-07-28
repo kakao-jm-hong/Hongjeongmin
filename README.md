@@ -9,6 +9,8 @@
 
 - ⚡ Fun fact **I think I'am Funny**
 
+<img src="http://mazassumnida.wtf/api/generate_badge?boj=redbin0471" />
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/https://www.instagram.com/hong0471/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/hong0471/" height="30" width="40" /></a>
