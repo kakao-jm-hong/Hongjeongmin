@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hongjeongmin&label=Profile%20views&color=0e75b6&style=flat" alt="hongjeongmin" /> </p>
 
-- 🌱 I’m currently learning **Spring, React**
+- 🌱 I’m currently learning **Spring, React, Node.js**
 
 - 📫 How to reach me **wjdals0471@naver.com**
 
