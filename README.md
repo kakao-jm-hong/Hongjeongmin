@@ -1,6 +1,6 @@
 <h1 align="center">Redbin</h1>
 <h3 align="center">여러 기술들에 관심이 많습니다.</h3>
-<p>최근에는 실시간 동기화되는 웹에디터를 만들고 있습니다 ㅎㅎㅎ 친구들 끼리 소스코드도 공유하고 빠르게 피드백받을 수 있는 웹사이트 입니다!! 실시간으로 밑줄 마킹도 할 수 있구요~ 근데 혼자서하기엔 할게 많네요 ㅜㅜㅜ</p>
+<p>최근에는 실시간 동기화되는 웹에디터를 만들고 있습니다 ㅎㅎㅎ 친구들 끼리 소스코드도 공유하고 빠르게 피드백받을 수 있는 웹사이트 입니다!! 실시간으로 밑줄 마킹도 할 수 있구요~~  </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hongjeongmin&label=Profile%20views&color=0e75b6&style=flat" alt="hongjeongmin" /> </p>
 
 - 🌱 I’m currently learning **Spring, React, Node.js**
