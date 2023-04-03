@@ -1,4 +1,4 @@
-<h1 align="center">Redbin</h1>
+<h1 align="center">JM</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hongjeongmin&label=Profile%20views&color=0e75b6&style=flat" alt="hongjeongmin" /> </p>
 
 - 🌱 I’m currently learning **Spring, React, Node.js**
